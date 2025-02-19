@@ -4,6 +4,7 @@ public class Automovil extends Vehiculo {
 
 	
 	
+	
     public Automovil(int cilindraje, int peso, int tamanoTanque) throws AutonomiaException {
         super(cilindraje, peso, tamanoTanque);
     }
